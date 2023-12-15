@@ -1,0 +1,6 @@
+This could will not compile in an editor as it is built through streamlit:
+To run it you need to have streamlit installed but if its there, 
+1. Open up the command line
+2. cd into wherever the project file inside my repo is for you for example for me it is cd Desktop\Python\AdvancedPython\Project
+3. Once your in there you just do the command streamlit run main.py
+That should work to make it run but I will be including A video within this repo of my project as well just in case 
